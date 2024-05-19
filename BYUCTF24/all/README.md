@@ -1,0 +1,1 @@
+Exploit format string vulnerability to leak stack address, then inject shellcode into stack and overwrite RIP to execute shellcode.

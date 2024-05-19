@@ -1,0 +1,1 @@
+Use negative number to force length to be higher than allowed, then use buffer overflow to create an ROP chain to call system("/bin/sh").
